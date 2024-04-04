@@ -1,7 +1,7 @@
 +++
 title = "Cartes postale sonore, Gare de Bern"
 date = "2024-04-04"
-draft = true
+draft = false
 pinned = false
 image = "sbb-und-camelot-datenmanagementlosung.jpeg"
 description = "En cours de français, nous faissons une carte postale sonore. Voici un petit voyage à travers la gare de Berne"
