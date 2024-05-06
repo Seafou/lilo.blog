@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "About me"
 draft = false
 +++
 Stefan Czupalla
