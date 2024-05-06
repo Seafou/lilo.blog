@@ -1,13 +1,12 @@
 +++
 title = "About me"
 draft = false
+image = "35226907-weihnachten-star-linie-symbol-oder-logo-stil-hoch-qualitat-zeichen-und-symbol-auf-ein-weiss-hintergrund-glucklich-neu-jahr-gliederung-piktogramm-zum-infografik-vektor.jpg"
 description = ""
-image = "/img/default-author.jpg"
 +++
 ![](/img/default-author.jpg)
 
-## My Name
+Stefan Czupalla
 
-mail@example.org
+stefan@rattus.pl
 
-Here should be some info about me...
