@@ -1,7 +1,7 @@
 +++
 title = "Ist der Glaube noch Wichtig?"
 date = "2024-06-12"
-draft = false
+draft = true
 pinned = false
 tags = ["Deutsch", "Reportage"]
 image = "reportage_bild.jpg"
