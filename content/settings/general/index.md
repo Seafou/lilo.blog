@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Stefan Czupalla"
-description = "Weiß noch nicht was hier drauf kommt"
+description = "Blog Seite"
 footerLeft = "Powered by [Lilo.page](https://www.lilo.page)"
 footerRight = "[Tags](/tags/) | [Archive](/posts/)"
 +++
